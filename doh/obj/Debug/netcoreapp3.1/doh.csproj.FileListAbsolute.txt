@@ -1,0 +1,13 @@
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.csproj.AssemblyReference.cache
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.AssemblyInfoInputs.cache
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.AssemblyInfo.cs
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.csproj.CoreCompileInputs.cache
+/Users/jessig/Projects/doh/doh/bin/Debug/netcoreapp3.1/doh.deps.json
+/Users/jessig/Projects/doh/doh/bin/Debug/netcoreapp3.1/doh.runtimeconfig.json
+/Users/jessig/Projects/doh/doh/bin/Debug/netcoreapp3.1/doh.runtimeconfig.dev.json
+/Users/jessig/Projects/doh/doh/bin/Debug/netcoreapp3.1/doh.dll
+/Users/jessig/Projects/doh/doh/bin/Debug/netcoreapp3.1/doh.pdb
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.dll
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.pdb
+/Users/jessig/Projects/doh/doh/obj/Debug/netcoreapp3.1/doh.genruntimeconfig.cache
